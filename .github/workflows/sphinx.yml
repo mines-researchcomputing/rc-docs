@@ -11,9 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-      - name: Install dependencies
+      - name: Install dependencies (apt)
         run: |
-          pip install --no-cache-dir ipython sphinx nbsphinx myst-parser sphinx-rtd-theme jinja2==3.0.3 nbconvert==6.4.4 sphinxcontrib.bibtex pandoc
+          apt-get install -y pandoc
+      - name: Install dependencies (pip)
+        run: |
+          pip install --no-cache-dir ipython sphinx nbsphinx myst-parser sphinx-rtd-theme jinja2==3.0.3 nbconvert==6.4.4 sphinxcontrib.bibtex
       - name: Sphinx build
         run: |
           sphinx-build source _build

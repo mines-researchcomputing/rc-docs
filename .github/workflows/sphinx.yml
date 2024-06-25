@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-python@v5
       - name: Install dependencies
         run: |
-          pip install --no-cache-dir ipython sphinx nbsphinx myst-parser sphinx-rtd-theme jinja2==3.0.3 nbconvert==6.4.4 sphinxcontrib.bibtex
+          pip install --no-cache-dir ipython sphinx nbsphinx myst-parser sphinx-rtd-theme jinja2==3.0.3 nbconvert==6.4.4 sphinxcontrib.bibtex pandoc
       - name: Sphinx build
         run: |
           sphinx-build source _build

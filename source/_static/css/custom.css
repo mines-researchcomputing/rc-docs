@@ -1,0 +1,57 @@
+/* Sidebar header (and topbar for mobile) */
+    .wy-side-nav-search, .wy-nav-top {
+      background:  #CED5DD;
+    }
+    /* Sidebar */
+    .wy-nav-side {
+      background: #21314D;
+    }
+    /* Caption Text */
+    span.caption-text {
+      color: #CC4628;
+    }
+    /* Link colors */
+    a:link {
+      color: #263F6A;
+    }
+    a:hover {
+      color: #D2492A;
+    }
+    a:visited {
+      color: #B2B4B3;
+    }
+
+    /* Update reference link colors */
+
+   .wy-menu a:link {
+         color: #CED5DD;
+      }
+
+    /* Create three equal columns that floats next to each other */
+    .column {
+      float: left;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    
+    .middle, .right {
+      width: 30%;
+    }
+    
+    .left {
+      width: 40%;
+    }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}

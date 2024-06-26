@@ -1,6 +1,6 @@
-# Overview of HPC at Mines
+# Overview of Research Computing at Mines
 
-## High Performance Computing (HPC) & Research Computing
+## High Performance Computing (HPC) 
 ITS’ High Performance Computing group maintains various HPC (supercomputer) platforms and offers support for Mines faculty and students using using HPC systems in their research efforts. The goal of this service is to provide high quality HPC resources to help scientists do their science.
 
 ### What We Do
@@ -21,4 +21,4 @@ In pursuit of its goal, the RC group:
 
 ## Getting more help
 
-If you're not able to find the help you need in our documentation, please head over to the [Mines Help Center](https://helpcenter.mines.edu/TDClient/1946/Portal/Requests/ServiceCatalog?CategoryID=11036) and submit an HPC/Research ticket for more specific help.
+If you're not able to find the help you need in our documentation, please head over to the [Mines Help Center](https://helpcenter.mines.edu/TDClient/1946/Portal/Requests/TicketRequests/NewForm?ID=4GCQlvW5OYk_&RequestorType=Service) and submit an Research Computing ticket for more specific help.

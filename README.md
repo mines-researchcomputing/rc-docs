@@ -1,6 +1,6 @@
-# CIARC-docs-sphinx
+#     mines-researchcomputing.github.io
 
-This repository stores the build process for the webpages at https://wpfiles.mines.edu/ciarc/docs. They are generated using the [Sphinx](https://www.sphinx-doc.org/en/master/) Python documentation generator, accomplained by the [Read The Docs](https://readthedocsorg.readthedocs.io/en/latest/theme.html) theme. 
+This repository stores the build process for the webpages at https://rc-docs.mines.edu (coming soon as of 6/26/2024). They are generated using the [Sphinx](https://www.sphinx-doc.org/en/master/) Python documentation generator, accomplained by the [Read The Docs](https://readthedocsorg.readthedocs.io/en/latest/theme.html) theme. 
 
 ## Requirements
 
@@ -63,11 +63,6 @@ Currently, all new pages will be added under `./source/pages` as `.md` files. On
 
       * :ref:`genindex`
       * :ref:`modindex`
-      * :ref:`search`  
-
-## To Do
-
-1. Setup Gitlab CI/CD to push html files to server using sftp
-2. Decide Table of Contents and how to organize documentation
+      * :ref:`search`
 
  

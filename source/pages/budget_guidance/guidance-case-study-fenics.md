@@ -2,7 +2,7 @@
 
 ## 1. Identify Software Usage
 
-Researcher wants to use FEniCS 2019.1, an open source Finite Element software package. No restrctions on licensing/usage. Python/C++ code which requires compilation from source.
+Researcher wants to use FEniCS 2019.1, an open source Finite Element software package. No restrictions on licensing/usage. Python/C++ code which requires compilation from source.
 
 Website: [https://fenicsproject.org/download/archive/](FEniCS Project)
 

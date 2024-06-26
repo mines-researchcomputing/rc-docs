@@ -21,7 +21,7 @@ REFERENCES:
 
 ## How do I acknowledge usage of HPC@Mines resources?
 To acknowledge your use of Mines HPC resources, we request that you use the following wording:
->> The authors acknowledge Colorado School of Mines supercomputing resources from the Cyber Infrastructure & Advanced Research Computing Group (http://ciarc.mines.edu) made available for conducting the research reported in this paper.
+>> The authors acknowledge Colorado School of Mines supercomputing resources from the Research Computing Group (http://rc.mines.edu) made available for conducting the research reported in this paper.
 
 ## I'd like to install a Python library. How do I do that?
 

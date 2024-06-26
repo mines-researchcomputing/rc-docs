@@ -4,7 +4,7 @@
 ITS’ High Performance Computing group maintains various HPC (supercomputer) platforms and offers support for Mines faculty and students using using HPC systems in their research efforts. The goal of this service is to provide high quality HPC resources to help scientists do their science.
 
 ### What We Do
-In pursuit of its goal, the CIARC group:
+In pursuit of its goal, the RC group:
 * Maintains several HPC platforms:
 	- Mio – Machine managed unde the condo paradigm (150+ Tflops)
 	- Wendian – Mines’ newest machine with 87 nodes, 5 with GPUS (350+ Tflops)

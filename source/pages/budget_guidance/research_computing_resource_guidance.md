@@ -14,7 +14,7 @@ cost model, where researchers pay for the CPU/hours cycles used. This document
 aims to help write future research grants that use HPC resources at Mines.
 
 Schedule a consultation appointment at 
-[CIARC.mines.edu](https://helpcenter.mines.edu/TDClient/1946/Portal/Requests/TicketRequests/NewForm?ID=4GCQlvW5OYk_&RequestorType=Service)
+[RC.mines.edu](https://helpcenter.mines.edu/TDClient/1946/Portal/Requests/TicketRequests/NewForm?ID=4GCQlvW5OYk_&RequestorType=Service)
 
 
 ### Life Cycle of Research Computing Projects

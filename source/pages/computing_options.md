@@ -26,7 +26,7 @@ The National Science Foundation provides compute credits for various levels of r
 
 1. Create an [ACCESS account](https://identity.access-ci.org/new-user-direct) by clicking this [link](https://identity.access-ci.org/new-user-direct) and login using your ACCESS credentials.
     - NOTE: The ACCESS login portal will show Mines as as a login option, but will not work properly until you link from your logged in ACCESS-CI account to your Mines CI-LOGIN account (see [Identity linking page](https://operations.access-ci.org/identity/id-linking)). 
-2. Request an [ACCESS allocation](https://allocations.access-ci.org/opportunities). There are several tiers of allocation options, each with their own requirements of submission. For details on the type of allocations and their requirements, see the [Prepare requests: Overview](https://allocations.access-ci.org/prepare-requests-overview) page. For the lowest tier allocation, the "Explore" tier, no prior NSF funding is required to request an allocation. Classrooms are also eligible to request allocations. *Make sure to add CIARC staff to your allocation as a member during the allocation request so we can directly support you on the project.* For your convenience, we've summarized the ACCESS allocation options in the table below:
+2. Request an [ACCESS allocation](https://allocations.access-ci.org/opportunities). There are several tiers of allocation options, each with their own requirements of submission. For details on the type of allocations and their requirements, see the [Prepare requests: Overview](https://allocations.access-ci.org/prepare-requests-overview) page. For the lowest tier allocation, the "Explore" tier, no prior NSF funding is required to request an allocation. Classrooms are also eligible to request allocations. *Make sure to add RC staff to your allocation as a member during the allocation request so we can directly support you on the project.* For your convenience, we've summarized the ACCESS allocation options in the table below:
 
 | Allocation Type | Ideal For  |  Maximum ACCESS Credits Award | Duration |  Requires NSF Grant | Basic Requirements |
 |--------------|-----------|------------|------------|------------|------------|
@@ -50,7 +50,7 @@ If you have issues filling this out, feel free to submit an [HPC support ticket]
  
 
 6. Go to that partner's HPC cluster page for assistance with logging in the first time.
-7. Create a ticket at the [CIARC TDX Request page](https://helpcenter.mines.edu/TDClient/1946/Portal/Requests/ServiceDet?ID=52356) for assistance on building your software or other support on the chosen cluster. ACCESS also provides [support](https://support.access-ci.org/help-ticket) on their website, if that is preferred.
+7. Create a ticket at the [RC TDX Request page](https://helpcenter.mines.edu/TDClient/1946/Portal/Requests/ServiceDet?ID=52356) for assistance on building your software or other support on the chosen cluster. ACCESS also provides [support](https://support.access-ci.org/help-ticket) on their website, if that is preferred.
 
 For more details on the ACCESS program, please visit the [FAQs](https://allocations.access-ci.org/ramps-policies-faqs) page on their website.
 
@@ -62,10 +62,10 @@ Mines is a member of the [Rocky Mountain Advanced Compuing Consortium (RMACC)](h
 - Large AMD CPU nodes
 - Large memory capacity nodes
 - NVIDIA GPU node support
-- User Support from either CIARC or CU Boulder staff
+- User Support from either RC or CU Boulder staff
 - Interactive/graphical user interface support through Open OnDemand
 
-Although Alpine is free to use for RMACC use, there are some limitations. First, all jobs (including non-RMACC users) have shorter job time limits and other resource limits, which may be too restrictive for some workflows. For more details, see the [Alpine Hardware](https://curc.readthedocs.io/en/latest/clusters/alpine/alpine-hardware.html) page. Second, although all CIARC support staff have accounts on Alpine, our support will be more limited compared to our on-site offers. That said, we are still able to help support where we can if you submit a ticket to us for an Alpine-related issue. Finally, Alpine for RMACC users is currently only accessible through their web portal powered by [Open OnDemand](https://ondemand-rmacc.rc.colorado.edu/). In practice, this means that file transfer methods such as `scp` are currently not supported for RMACC users and file transfers will have to be done using the Open OnDemand file manager tool. 
+Although Alpine is free to use for RMACC use, there are some limitations. First, all jobs (including non-RMACC users) have shorter job time limits and other resource limits, which may be too restrictive for some workflows. For more details, see the [Alpine Hardware](https://curc.readthedocs.io/en/latest/clusters/alpine/alpine-hardware.html) page. Second, although all RC support staff have accounts on Alpine, our support will be more limited compared to our on-site offers. That said, we are still able to help support where we can if you submit a ticket to us for an Alpine-related issue. Finally, Alpine for RMACC users is currently only accessible through their web portal powered by [Open OnDemand](https://ondemand-rmacc.rc.colorado.edu/). In practice, this means that file transfer methods such as `scp` are currently not supported for RMACC users and file transfers will have to be done using the Open OnDemand file manager tool. 
 
 ### Mio
 

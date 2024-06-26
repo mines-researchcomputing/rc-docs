@@ -1,6 +1,6 @@
 # Research Computing Consultation
 
-The CIARC team offers a variety of consultation options for researchers at Mines. This includes:
+The RC team offers a variety of consultation options for researchers at Mines. This includes:
 
 - Parallel Computing
 - Hardware
@@ -9,7 +9,7 @@ The CIARC team offers a variety of consultation options for researchers at Mines
 - Project Planning
 
 
-If you'd like to set up a call or meeting with us, you can book [here](https://outlook.office365.com/book/CIARCTeamServices@mines0.onmicrosoft.com/).
+If you'd like to set up a call or meeting with us, you can book [here](https://outlook.office365.com/book/RCTeamServices@mines0.onmicrosoft.com/).
 
 ## Parallel Computing Consultation Guidance
 

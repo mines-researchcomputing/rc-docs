@@ -68,7 +68,7 @@ html_css_files = [
     'css/custom.css',
 ]
 
-html_logo = "Mines-CIARC-03.png"
+html_logo = "Mines-RC-03.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,

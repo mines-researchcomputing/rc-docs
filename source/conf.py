@@ -18,7 +18,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'HPC@Mines'
+project = 'Mines Research Computing'
 copyright = '2022, Colorado School of Mines'
 author = 'Nicholas A. Danes'
 

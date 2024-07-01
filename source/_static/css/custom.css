@@ -8,7 +8,7 @@
     }
     /* Caption Text on Side Menu */
     .wy-menu.wy-menu-vertical span.caption-text {
-      color: #CFDCE9;
+      color: #CC4628;
     }
     /* Link colors */
     a:link {
@@ -47,7 +47,7 @@
        color: #CC4628 
      }
 
-    .pre {
+    span.pre {
        color: #CC4628 
      }
 

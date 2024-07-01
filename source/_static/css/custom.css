@@ -7,7 +7,7 @@
       background: #21314D;
     }
     /* Caption Text on Side Menu */
-    .wy-menu wy-menu-vertical span.caption-text {
+    .wy-menu.wy-menu-vertical span.caption-text {
       color: #CFDCE9;
     }
     /* Link colors */

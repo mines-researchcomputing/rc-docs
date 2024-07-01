@@ -8,7 +8,7 @@
     }
     /* Caption Text on Side Menu */
     .wy-menu.wy-menu-vertical span.caption-text {
-      color: #CC4628;
+      color: #C84528;
     }
     /* Link colors */
     a:link {
@@ -84,7 +84,11 @@
 }
 
 .citation {
-    color:#81848A;
+    color:#707070;
+}
+
+footer {
+    color: #707070;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */

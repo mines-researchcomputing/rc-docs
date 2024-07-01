@@ -12,13 +12,13 @@
     }
     /* Link colors */
     a:link {
-      color: #263F6A;
+      color: #09396C;
     }
     a:hover {
-      color: #D2492A;
+      color: #21314d;
     }
     a:visited {
-      color: #B2B4B3;
+      color: #21314d;
     }
 
     /* Update reference link colors */
@@ -40,6 +40,11 @@
     /* Code / fixed width fonts all colorado Red"
     pre {
        color: #CC4628 
+     }
+
+    /* Reference links within the document setup *?
+    .wy-nav-content.reference a:link {
+
      }
 
     /* Create three equal columns that floats next to each other */

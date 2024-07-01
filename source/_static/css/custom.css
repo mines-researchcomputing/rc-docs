@@ -24,7 +24,16 @@
     /* Update reference link colors */
 
    .wy-menu a:link {
-         color: #CED5DD;
+         color: #FFFFFF;
+      }
+
+   .wy-menu a:hover {
+         color:  #FFFFFF;
+         text-decoration: underline;
+      }
+
+   .wy-menu a:visited {
+         color: #CFDCE9;
       }
 
     /* Content links are underlined */
@@ -32,10 +41,6 @@
        text-decoration: underline;
       }
 
-    /* Side bar links hover for underline */
-    .wy-menu a:hover {
-     text-decoration: underline;
-    }
 
     /* Code / fixed width fonts all colorado Red"
     pre {

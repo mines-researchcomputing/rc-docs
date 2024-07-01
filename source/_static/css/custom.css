@@ -43,9 +43,14 @@
 
 
     /* Code / fixed width fonts all colorado Red"
-    pre,code {
+    pre {
        color: #CC4628 
      }
+
+    code {
+       color: #CC4628 
+     }
+
 
     /* Reference links within the document setup *?
     .wy-nav-content.reference a:link {

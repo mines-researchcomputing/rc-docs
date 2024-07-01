@@ -26,6 +26,7 @@
 
    .wy-menu a:link {
          color: #09396C;
+         text-decoration: none;
       }
 
    .wy-menu a:hover {
@@ -35,21 +36,22 @@
 
    .wy-menu a:visited {
          color: #21314d;
+        text-decoration: none;
       }
 
     /* Content links are underlined */
-    .wy-nav-content a:hover {
+    .wy-nav-content a:link {
        text-decoration: underline;
       }
 
 
     /* Code / fixed width fonts all Colorado Red */
     pre {
-       color: #CC4628;
+       color: #21314d;
      }
 
     span.pre {
-       color: #CC4628;
+       color: #21314d;
      }
 
     .wy-menu-vertical a:hover {

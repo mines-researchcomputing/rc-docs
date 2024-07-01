@@ -4,7 +4,7 @@
     }
     /* Sidebar */
     .wy-nav-side {
-      background: #21314D;
+      background: #CFDCE9;
     }
     /* Caption Text on Side Menu */
     .wy-menu.wy-menu-vertical span.caption-text {
@@ -21,19 +21,19 @@
       color: #21314d;
     }
 
-    /* Update reference link colors */
+    /* Update sidebar link colors */
 
    .wy-menu a:link {
-         color: #FFFFFF;
+         color: #09396C;
       }
 
    .wy-menu a:hover {
-         color:  #FFFFFF;
+         color:  #21314d;
          text-decoration: underline;
       }
 
    .wy-menu a:visited {
-         color: #CFDCE9;
+         color: #21314d;
       }
 
     /* Content links are underlined */

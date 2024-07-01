@@ -46,13 +46,13 @@
       }
 
 
-    /* Code / fixed width fonts all Colorado Red */
+    /* Code / 
     pre {
-       color: #21314d;
+       color: #09396C;
      }
 
     span.pre {
-       color: #21314d;
+       color: #09396C;
      }
 
     .wy-menu-vertical a:hover {
@@ -83,12 +83,19 @@
   clear: both;
 }
 
-.citation {
+[role=doc-biblioentry] {
     color:#707070;
 }
 
 footer {
     color: #707070;
+        /* Link colors */
+    a:link {
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;  
+    }
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */

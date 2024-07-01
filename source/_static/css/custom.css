@@ -83,7 +83,7 @@
   clear: both;
 }
 
-[role=doc-biblioentry] {
+div.citation {
     color:#707070;
 }
 

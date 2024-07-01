@@ -13,6 +13,7 @@
     /* Link colors */
     a:link {
       color: #09396C;
+      text-decoration: underline;
     }
     a:hover {
       color: #21314d;
@@ -51,15 +52,11 @@
        color: #CC4628;
      }
 
-    .toctree-l1 a:hover {
+    .wy-menu-vertical a:hover {
        background-color: #e6e6e6;
     }
 
 
-    /* Reference links within the document setup *?
-    .wy-nav-content.reference a:link {
-
-     }
 
     /* Create three equal columns that floats next to each other */
     .column {

@@ -51,6 +51,10 @@
        color: #CC4628;
      }
 
+    .toctree-l1 a:hover {
+       background-color: #e6e6e6;
+    }
+
 
     /* Reference links within the document setup *?
     .wy-nav-content.reference a:link {

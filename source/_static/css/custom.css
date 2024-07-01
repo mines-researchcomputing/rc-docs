@@ -6,8 +6,8 @@
     .wy-nav-side {
       background: #21314D;
     }
-    /* Caption Text */
-    span.caption-text {
+    /* Caption Text on Side Menu */
+    .wy-menu wy-menu-vertical span.caption-text {
       color: #CFDCE9;
     }
     /* Link colors */

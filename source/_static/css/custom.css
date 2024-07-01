@@ -17,6 +17,7 @@
     }
     a:hover {
       color: #21314d;
+      text-decoration: none;  
     }
     a:visited {
       color: #21314d;

@@ -43,12 +43,12 @@
 
 
     /* Code / fixed width fonts all colorado Red"
-    pre,code {
-       color: #CC4628 
+    pre {
+       color: #CC4628;
      }
 
     span.pre {
-       color: #CC4628 
+       color: #CC4628;
      }
 
 

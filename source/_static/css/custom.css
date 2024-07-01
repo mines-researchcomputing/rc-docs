@@ -27,9 +27,20 @@
          color: #CED5DD;
       }
 
-a:hover {
-  text-decoration: underline;
-}
+    /* Content links are underlined */
+    .wy-nav-content a:hover {
+       text-decoration: underline;
+      }
+
+    /* Side bar links hover for underline */
+    .wy-menu a:hover {
+     text-decoration: underline;
+    }
+
+    /* Code / fixed width fonts all colorado Red"
+    pre {
+       color: #CC4628 
+     }
 
     /* Create three equal columns that floats next to each other */
     .column {
